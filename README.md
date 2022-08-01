@@ -2,8 +2,6 @@
 <p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <p align="center">
- <a href="#objetivo">Objetivo do Projeto</a> •
- <a href="#tecnologias">Tecnologias Utilizadas</a> •
  <a href="#autor">Autor</a>
 </p>
 
