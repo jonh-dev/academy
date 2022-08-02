@@ -1,6 +1,6 @@
-<h1 align="center"> Chess System </h1>
+<h1 align="center"> Sistema de academia </h1>
 
-<p align="center">Este projeto foi desenvolvido para fins didaticos durante o Bootcamp da Digital Innovation One.</p>
+<p align="center">Este projeto foi desenvolvido para fins didaticos durante o Bootcamp de Spring Boot da Digital Innovation One.</p>
 
 <p align="center">
  <a href="#projeto">Projeto</a> •
