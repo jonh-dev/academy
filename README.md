@@ -13,7 +13,7 @@
 
 <h1 align="center">
 
-![Crud_Academia](https://user-images.githubusercontent.com/101439670/182296743-abe49968-a8a8-489f-a33d-b0a39c7b6ea3.gif)
+https://user-images.githubusercontent.com/101439670/182297072-592e60ff-3001-4315-82c7-4fb3ca7ff137.mp4
 
 </h1>
 
